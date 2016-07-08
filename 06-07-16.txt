@@ -1,0 +1,10 @@
+
+#08:00#
+
+ - clonando a pasta luizze/estagio com GIT Clone...;
+ - continuação da atividade poo/c#;
+ - só sei programação estruturada e nada de poo;
+ - rebolando tudo o que aprendi de poo no mato pq aprendi errado ou não aprendi;
+ - estudando poo com o meu chapa heitor (tudo do começo);
+ - atividade calculadora/poo;
+#17:00#

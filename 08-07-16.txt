@@ -1,0 +1,5 @@
+#08:00#
+ - passando carrinho de compras para uma janela;
+ - criando um novo projeto windows forms (Compras.Carrinho);
+ - organizando meu github criando outro diretorio e enviando arquivos;
+#17:00#
