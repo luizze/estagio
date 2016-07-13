@@ -1,4 +1,5 @@
 #08:00#
  - atualizando o maximum em todas as maquinas da empresa (continuação);
  - estudando poo...;
+ - missão: fazer um programa em c# .bat;
 #18:00#
