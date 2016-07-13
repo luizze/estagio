@@ -1,0 +1,5 @@
+#08:00#
+ - atualizando o maximum em todas as maquinas da empresa (continuação);
+ - estudando poo...;
+ - php com laravel;
+#18:00#
