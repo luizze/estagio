@@ -1,0 +1,5 @@
+#08:00#
+ - atualizando o maximum em algumas maquinas da empresa que não deram certo;
+ - programa em c# (copiar arquivos de um diretorioe colar em outro diretorio) form/console;
+ - git...;
+#17:30#

@@ -1,4 +1,4 @@
 #08:00#
  - passando carrinho de compras para uma janela (fim);
  - atualizando o maximum em todas as maquinas da empresa;
-#18:00#
+#17:30#
