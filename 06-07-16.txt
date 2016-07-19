@@ -1,6 +1,4 @@
-
 #08:00#
-
  - clonando a pasta luizze/estagio com GIT Clone...;
  - continuação da atividade poo/c#;
  - só sei programação estruturada e nada de poo;
