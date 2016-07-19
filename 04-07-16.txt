@@ -1,7 +1,7 @@
 #08:00#
  - teste básico em c#;
  - aprendendo GIT (controle de versão);
- - criando uma conta no GITHUB;
+ - criando uma conta no GitHub;
  - começando a usar o servidor GIT;
  - estudando poo/c# -> atividade;
 #17:00#
