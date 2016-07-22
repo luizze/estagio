@@ -1,0 +1,5 @@
+#08:00#
+ - Apresentar o meu projeto Dilady.FileUpdater pra galera da T.I;
+ - Sistema.Etiquetas c# com hibernate;
+	+ fmrAlterarPreco.cs (Finalizado)
+#17:00#
