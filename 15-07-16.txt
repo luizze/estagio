@@ -1,4 +1,4 @@
 #08:00#
  - programa em c# (copiar arquivos de um diretorioe colar em outro diretorio) form - continuação;
  -> verificar se o arquivo já existe no destino, se existe, compare as data caso forem diferentes sobreescreva com o arquivo de destino Se não ignore a atualização do arquivo;
-#17:30#
+#17:00#
