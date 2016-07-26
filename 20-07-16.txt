@@ -1,4 +1,4 @@
 #08:00#
- - Sistema.Etiquetas c# com hibernate;
-	+ fmrAlterarPreco.cs
+ - Sistema.Etiquetas c# com hibernate:
+	+ fmrAlterarPreco.cs;
 #17:30#
