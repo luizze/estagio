@@ -1,5 +1,5 @@
 #08:00#
  - Ajuste de estoque, setores negativos(maximum);
  - Backlogs:
-	+Sprint5;
+	+ AFV - Automação Força de Vendas - Sprint5;
 #19:00#
