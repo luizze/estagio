@@ -1,5 +1,5 @@
 #08:00#
  - programa para copiar arquivos finalizado;
- - só mais alguns ajustes...;
+ - só mais alguns ajustes(fazer backup);
  - GIT;
 #17:30#

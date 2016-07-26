@@ -1,5 +1,5 @@
 #08:00#
  - atualizando o maximum em todas as maquinas da empresa (continuação);
  - estudando poo...;
- - missão: fazer um programa em c# .bat;
+ - missão: fazer um programa em c# Dilady.FileUpdater;
 #17:00#
