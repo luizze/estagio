@@ -1,0 +1,7 @@
+#12:30#
+ - criar arquivo "leia me" da nova versão;
+ - conhecendo um pouco de "vida de um objeto";
+ - unity container;
+ WEB
+ - json;
+#17:30#

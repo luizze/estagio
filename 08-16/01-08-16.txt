@@ -1,0 +1,5 @@
+#13:00#
+ - backlogs:
+	+ AFV - Automação Força de Vendas - sprint5;
+ - criar arquivo "leia me" da nova versão;
+#17:30#
