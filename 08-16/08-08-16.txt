@@ -1,0 +1,4 @@
+#12:30#
+ - AFV - API -> tentativa falha;
+ - AFV, tirar bugs;
+#17:30#
