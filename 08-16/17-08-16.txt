@@ -1,3 +1,5 @@
 #12:30#
- - ;
+ - AFV, tirar bugs;
+ - Adicionar a data de cadastro na listview da frmConsultaPedido;
+ - Corrigir o bug do iss no visual studio;
 #17:00#

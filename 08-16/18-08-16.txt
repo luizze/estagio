@@ -1,0 +1,3 @@
+#12:30#
+ - Corrigir o bug do iss no visual studio;
+#17:00#
