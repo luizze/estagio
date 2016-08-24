@@ -1,0 +1,6 @@
+#12:30#
+ - Instalar o vnc;
+ - Instalar o Crystal Report;
+ - Instalar o maximum;
+ - corrigir a sicronização dos pedidos (AFV);
+#17:00#
