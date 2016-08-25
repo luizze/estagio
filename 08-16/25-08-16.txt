@@ -1,3 +1,4 @@
 #12:30#
- - ;
+ - AFV: na sincronização de cliente mostrar o cliente que foi enviado para aprovação,
+	na consulta pedido mostrar o status do cliente;
 #17:00#
