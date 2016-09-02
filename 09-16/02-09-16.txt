@@ -1,4 +1,5 @@
 #12:30#
+ - resolver problema na máquina;
  - backlogs:
 	+ AFV - Automação Força de Vendas - sprint6;
 #17:00#
