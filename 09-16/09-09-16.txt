@@ -1,0 +1,5 @@
+#12:30#
+ - atualizar o maximum da pior máquina da empresa;
+ - backlogs:
+	+ AFV - Automação Força de Vendas - sprint6;
+#17:00#
