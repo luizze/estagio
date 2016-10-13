@@ -1,4 +1,4 @@
 #12:30#
  - backlogs:
-	+ AFV - Automação Força de Vendas - sprint7;
+	+ AFV - Automação Força de Vendas - sprint8;
 #17:00#
