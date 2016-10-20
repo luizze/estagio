@@ -1,0 +1,3 @@
+#12:30#
+ - melhorar a sincronização dos produtos / TDD;
+#17:00#
